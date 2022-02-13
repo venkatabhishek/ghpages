@@ -21,8 +21,8 @@
 title: Abhishek Venkat
 email: abhisaivenkat at gmail.com
 description: "Just a website promoting good soup"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ghpages.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/ghpages" # the subpath of your site, e.g. /blog
+url: "https://venkatabhishek.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  venkatabhishek
 repository: venkatabhishek/ghpages
 # Build settings
